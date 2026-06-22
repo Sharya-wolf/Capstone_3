@@ -14,7 +14,7 @@ over the last four years. You must create a Power BI report that highlights key 
 Region - West 
 Director - Cassie Chambers
 States - Colorado & Online Sales
-Store Manager - Jim Heck(Colorado) & Robin Gilmore and Ryann Kelly(Online Sales)
+Store Manager - Ellen Lemon(Colorado) & Robin Gilmore and Ryann Kelly(Online Sales)
 
 # Requirements:
 Report must consist of at least two pages, with text headers for each page. You are welcome to
